@@ -29,5 +29,5 @@ python hexagonal_grid_pathfinding.py
 ```
 
 **Note:** The visualization of the algorithm may not work as intended for some users, hence a file called path_animation.gif will be generated in the same _directory_ where the script is located which shows how the algorithm runs. 
-
+![screenshot](path_animation.gif)
 
