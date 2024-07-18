@@ -25,7 +25,7 @@ cd <repository-directory>
 ```
 2. Run the Script:  
 ```
-python hexagonal_grid_pathfinding.py
+python A_Star_Algorithm
 ```
 
 **Note:** The visualization of the algorithm may not work as intended for some users, hence a file called path_animation.gif will be generated in the same _directory_ where the script is located which shows how the algorithm runs. 
