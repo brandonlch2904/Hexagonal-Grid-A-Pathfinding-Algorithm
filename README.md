@@ -3,7 +3,7 @@ This project implements an A* pathfinding algorithm on a hexagonal grid with spe
 
 # Features
 - Hexagonal Grid Navigation: Navigate through a grid with hexagonal cells.
-- A Algorithm*: Find the shortest path to collect all treasures.
+- A* Algorithm: Find the shortest path to collect all treasures.
 - Special Cells: Handle traps and rewards that affect movement costs.
 - Dynamic Path Adjustment: Adjust paths based on the effects of traps and rewards.
 - Visualization: Visualize the grid and the path taken using Matplotlib animations.
